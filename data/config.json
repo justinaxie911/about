@@ -29,26 +29,31 @@
       "name": "Retrofit",
       "version": "2.9.0",
       "url": "https://square.github.io/retrofit/"
+      "description": "Testing"
     },
     {
       "name": "Glide",
       "version": "4.15.1",
       "url": "https://bumptech.github.io/glide/"
+      "description": "Testing"
     },
     {
       "name": "BadVPN",
       "version": "1.999.130",
       "url": "https://github.com/ambrop72/badvpn"
+      "description": "Testing"
     },
     {
       "name": "tun2socks",
       "version": "2.5.0",
       "url": "https://github.com/xjasonlyu/tun2socks"
+      "description": "Testing"
     },
     {
       "name": "Material Components",
       "version": "1.9.0",
       "url": "https://material.io/develop/android"
+      "description": "Testing"
     }
   ]
 }
