@@ -29,26 +29,31 @@
       "name": "Retrofit",
       "version": "2.9.0",
       "url": "https://square.github.io/retrofit/"
+      "description": "A type-safe HTTP client for Android and Java, used for making network requests and handling API interactions."
     },
     {
       "name": "Glide",
       "version": "4.15.1",
       "url": "https://bumptech.github.io/glide/"
+      "description": "A fast and efficient image loading library for Android, supporting caching, transformations, and animated GIFs."
     },
     {
       "name": "BadVPN",
       "version": "1.999.130",
       "url": "https://github.com/ambrop72/badvpn"
+      "description": "A VPN toolkit providing TUN/TAP driver integration, used for creating secure network tunnels and bypassing restrictions."
     },
     {
       "name": "tun2socks",
       "version": "2.5.0",
       "url": "https://github.com/xjasonlyu/tun2socks"
+      "description": "A utility to forward TCP/UDP traffic through a SOCKS proxy, enabling traffic redirection in VPN applications."
     },
     {
       "name": "Material Components",
       "version": "1.9.0",
       "url": "https://material.io/develop/android"
+      "description": "Google's open-source UI components for Android, following Material Design guidelines to ensure a modern and consistent user interface."
     }
   ]
 }
