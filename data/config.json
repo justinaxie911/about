@@ -2,6 +2,28 @@
   "app_name": "Potatovpn",
   "discord_url": "https://t.me/nxprojects",
   "description": "Developed by NXPROJECTS is an SSH TUNNEL client, designed to circumvent local blocking and censorship on the network",
+  "config_samples": {
+    "ssl_direct": {
+      "title": "SSL DIRECT",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5QU41eHRTakdrN2tkY1VhQVVxU250WGFBSURQWnhZeEpvVG1WREgyR05zVXJOdENvVzREdkE0V1xudVNOTFAyWmtGd0pDdWZoMER5VTZZSlVjVjB3XC90N0VSaUZLSm5DOHA2SEVBOWdPWUlNODR1aVpVRndja2tlSEQyUlBSRXZaSXl4dGhcblJBSW1QOGtQXC9oUzhnQTVielwvSndISXdTNVJReDNtSFRUS0JqNVwvUWpad25BRDRIMUNkNkJlMG5kQ2FubUdPRkdqNHNcL25NVGZ6K3doXG5hRFJndEQyTzZSaTl0dDFlTWxtcythYlV0bUhPblZrQnhvMEltZ0xoTEZGSDNtYW9lR1wvSDA1NWd1NUREN1lSZlU1cVByOGFZdWFUY1xuMnNaTVRZd29xZUpPS1ZTSENUUHdNdmRvTmJkenU5ZUIraDlpR3pTd1hjVFZOYkQ4cjM0S1ZOUGVHV2s9XG4iLCJsb2NrZWQiOmZhbHNlfQ==",
+      "description": "Contoh config untuk metode ssl direct, silahkan ganti akun dan bug dengan yang di inginkan"
+    }
+    "ssl_payload": {
+      "title": "SSL PAYLOAD",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5TEJXbzhPalJ1WlY4a05VSTQ5ZnpDYlhIVk11b0lOQ2g5ZXh2Q2gzRFh3ckNNYlVleUxxaVwvS25cblhTWFA5U3VyalJGbml6RVNJREdreWpqVGJiSXhldkIxRUNSS1pcL2pcL3RONUljTFc3T1dyV3EyME9Lakt4MjdDcll0V3NRT2ZFNXc2WFxuUFA2dVFrUmI3OExnUFdLXC9Nc1FxYjFrbTR3ZWxwYXd1VTVCOVBmYWxHVnlHQ1dtK2ZyMDZnT0pyQ2ExZ1NyYkI4QmIzNzZ0TEJueFpcbnUxV1pmdjFsWGc4cFN0UTJLRm9oRlJpb1wvYUdHcWZ4b3RsckZ5TVNBVlQ2XC9hUGJSa1NZREoxbDVQUXFjYnhFQzNQWmFMa2J6S1VxTFxuVjBlK3FEdnk1RXVmU3dDdkdWNE1rYjZ2S0xyblY0MHhLZEE2RVA2VENSUnlmMWdFMXIwdjA3VnZCTnp1R1pBR0U5WmZxUGJHSXg2dFxuZml6Y2I2aUJSdTRIc3UyVmhaSytQNlEwQkFjS0JDellkM01IWUlPNFJEeXc1dTg9XG4iLCJsb2NrZWQiOmZhbHNlfQ==",
+      "description": "Contoh config untuk metode ssl payload, silahkan ganti akun ssh dan bug yang di inginkan"
+    }
+    "ssl_payload_proxy": {
+      "title": "SSL PAYLOAD PROXY",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5UENPTFRqY3V4U1pwcWx6Qk9Za2QrV0VnMXVSd3RoSzZKaW5oNVo3bDdZUFJDbnZDK1p2endSTlxuOEJNSUZtSThvWkI1eThCSW00anNXckk5dW94alwvbXhEa2lRXC9tK1wvTURGVG9lZDBRbDQ1RDNVNkVibm9DQWZTTUtYZ1hpZVJJallTRVxuSGRDb2tpQzFkcklTM2JyVWxPQW1sUEVreDFiM08wVW0xTUltRlJkRTZJaWNEajJlbGNKTUNUUXgzcEFJeVRhT082R3FFV1wvNmxUemxcbm5nalJoSlwvY0NEY3VzOU9UNStjTDViWWtUaUd2SitjanV5azczWDlJQXczRVFnenlBNnhTKzNjXC9jUnJJWGpHS0J3OVwvMkxlZGZVcDFcblUwSnhzQjRLVENwUXBENWhjbHVnb3d4SDVyaUN4TzJJWFA2UjhxTFVNVkhDanBYa2xRVXludytDK09tMnZrYnBjQW1iSzNIaTFrZTFcblVrbzltaUM0UTQ1ckIzQldrT3k2R2hTVFVBVzFTNkYxbzVsZjd4RFo4aUpaTDN3aFlPY2t3RlZoRExvaldpcXdLcFVtXG4iLCJsb2NrZWQiOmZhbHNlfQ==",
+      "description": "Contoh config untuk metode ssl payload proxy, silahkan ganti akun ssh dan bug yang di inginkan"
+    }
+    "ssl_payload_proxy": {
+      "title": "SSH PROXY",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5R3dMZmRueFRNanYzNHlUcnFBZXAzdDFZQmVIM0ZxK2hFeG9MTnBXeGxMeU5vNDdvYW9SYlwvcVZcblBPV2VDTkdFbjJnNDVUZzl5Q29FZTU1ZUxnRXhTK0d0M3FNT2lkMUZLZldWMTMxQmhZempqWU1EZ3BXUXF6WXFLMWJQVzZhTmtjNzZcblBPelF5b0x6WVNyRE9QblZnTE9WS1V4emFTK3dWWFB2bGhwTktMeWlNZnVpdkhVTjBLaU5MYWU1TFhrNGtmVGZ2M2h1XC9JOUYyd1lnXG5henpsYUl5QXJhZ0RzOFBVR29OS0dzcW5SQ1lhSVlwcE5nd1p5VDhyUW14QlpmWGRWaVdDeHhFYml4eVpiSDg3WFJ3TW40RDJWNVkyXG5vQ0VcL2V3OE1DWFJZZjY5SzkyM0VvRDhJVFRMN0RqYlloNWJJY09mSDJKd0pYTmxYN3kwaUJ0UWRiY296M2xxZU1lZ01mNDd6dm1hSVxuczRKR1UyUTVlZTZVd1gwQmNoWlhPSVMxVHc9PVxuIiwibG9ja2VkIjpmYWxzZX0=",
+      "description": "Contoh config untuk metode ssh proxy, silahkan ganti akun ssh dan bug yang di inginkan"
+    }
+  },
   "libraries": [
     {
       "name": "Retrofit",
