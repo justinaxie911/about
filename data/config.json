@@ -1,4 +1,32 @@
 {
-  "app_name": "PotatoVpn",
-  "discord_url": "https://t.me/nxprojects"
+  "app_name": "Potatovpn",
+  "discord_url": "https://t.me/nxprojects",
+  "description": "Dev by NXPROJECTS is an SSH TUNNEL client, designed to circumvent local blocking and censorship on the network",
+  "libraries": [
+    {
+      "name": "Retrofit",
+      "version": "2.9.0",
+      "url": "https://square.github.io/retrofit/"
+    },
+    {
+      "name": "Glide",
+      "version": "4.15.1",
+      "url": "https://bumptech.github.io/glide/"
+    },
+    {
+      "name": "BadVPN",
+      "version": "1.999.130",
+      "url": "https://github.com/ambrop72/badvpn",
+    },
+    {
+      "name": "tun2socks",
+      "version": "2.5.0",
+      "url": "https://github.com/xjasonlyu/tun2socks",
+    },
+    {
+      "name": "Material Components",
+      "version": "1.9.0",
+      "url": "https://material.io/develop/android"
+    }
+  ]
 }
