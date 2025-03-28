@@ -1,5 +1,5 @@
 {
-  "app_name": "Potatovpn",
+  "app_name": "About",
   "discord_url": "https://t.me/nxprojects",
   "description": "Developed by NXPROJECTS is an SSH TUNNEL client, designed to circumvent local blocking and censorship on the network",
   "config_samples": {
@@ -29,31 +29,26 @@
       "name": "Retrofit",
       "version": "2.9.0",
       "url": "https://square.github.io/retrofit/"
-      "description": "Testing"
     },
     {
       "name": "Glide",
       "version": "4.15.1",
       "url": "https://bumptech.github.io/glide/"
-      "description": "Testing"
     },
     {
       "name": "BadVPN",
       "version": "1.999.130",
       "url": "https://github.com/ambrop72/badvpn"
-      "description": "Testing"
     },
     {
       "name": "tun2socks",
       "version": "2.5.0",
       "url": "https://github.com/xjasonlyu/tun2socks"
-      "description": "Testing"
     },
     {
       "name": "Material Components",
       "version": "1.9.0",
       "url": "https://material.io/develop/android"
-      "description": "Testing"
     }
   ]
 }
