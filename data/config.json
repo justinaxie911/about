@@ -1,7 +1,7 @@
 {
   "app_name": "Potatovpn",
   "discord_url": "https://t.me/nxprojects",
-  "description": "Dev by NXPROJECTS is an SSH TUNNEL client, designed to circumvent local blocking and censorship on the network",
+  "description": "Developed by NXPROJECTS is an SSH TUNNEL client, designed to circumvent local blocking and censorship on the network",
   "libraries": [
     {
       "name": "Retrofit",
