@@ -1,7 +1,7 @@
 {
-  "app_name": "About",
+  "app_name": "Selamat hari raya idul fitri",
   "discord_url": "https://t.me/nxprojects",
-  "description": "Developed by NXPROJECTS is an SSH TUNNEL client, designed to circumvent local blocking and censorship on the network",
+  "description": "Selamat hari raya idul fitri untuk semua muslim di dunia\nتَقَبَّلَ اللهُ مِنَّا وَمِنْكُمْ، عِيدُ فِطْرٍ مُبَارَكٍ!",
   "config_samples": {
     "ssl_direct": {
       "title": "SSL DIRECT",
