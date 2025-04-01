@@ -22,6 +22,16 @@
       "title": "SSH PROXY",
       "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5R3dMZmRueFRNanYzNHlUcnFBZXAzdDFZQmVIM0ZxK2hFeG9MTnBXeGxMeU5vNDdvYW9SYlwvcVZcblBPV2VDTkdFbjJnNDVUZzl5Q29FZTU1ZUxnRXhTK0d0M3FNT2lkMUZLZldWMTMxQmhZempqWU1EZ3BXUXF6WXFLMWJQVzZhTmtjNzZcblBPelF5b0x6WVNyRE9QblZnTE9WS1V4emFTK3dWWFB2bGhwTktMeWlNZnVpdkhVTjBLaU5MYWU1TFhrNGtmVGZ2M2h1XC9JOUYyd1lnXG5henpsYUl5QXJhZ0RzOFBVR29OS0dzcW5SQ1lhSVlwcE5nd1p5VDhyUW14QlpmWGRWaVdDeHhFYml4eVpiSDg3WFJ3TW40RDJWNVkyXG5vQ0VcL2V3OE1DWFJZZjY5SzkyM0VvRDhJVFRMN0RqYlloNWJJY09mSDJKd0pYTmxYN3kwaUJ0UWRiY296M2xxZU1lZ01mNDd6dm1hSVxuczRKR1UyUTVlZTZVd1gwQmNoWlhPSVMxVHc9PVxuIiwibG9ja2VkIjpmYWxzZX0=",
       "description": "Contoh config untuk metode ssh proxy, silahkan ganti akun ssh dan bug yang di inginkan"
+    },
+    "v2ray_vmess_nontls": {
+      "title": "VMESS WS NONTLS",
+      "config": "vmess://eyAidiI6ICIyIiwgInBzIjogImFzc3lhaHJ1bGxsIiwgImFkZCI6ICJ0aXJhemVuLnN0MHJlLm15LmlkIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMGEzZTE2OGMtYmFhNy00YjYyLTg1NzMtNWE1NjlkYmY0ZjlmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ0aXJhemVuLnN0MHJlLm15LmlkIiwgInRscyI6ICJub25lIiB9Cg==",
+      "description": " VMESS WS NON TLS"
+    },
+    "v2ray_vmess_tls": {
+      "title": "VMESS WS TLS",
+      "config": "vmess://eyAidiI6ICIyIiwgInBzIjogImFzc3lhaHJ1bGxsIiwgImFkZCI6ICJ0aXJhemVuLnN0MHJlLm15LmlkIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjBhM2UxNjhjLWJhYTctNGI2Mi04NTczLTVhNTY5ZGJmNGY5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGlyYXplbi5zdDByZS5teS5pZCIsICJ0bHMiOiAidGxzIiB9Cg==",
+      "description": " VMESS WS TLS"
     }
   },
   "libraries": [
