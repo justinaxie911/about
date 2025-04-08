@@ -22,7 +22,7 @@
       "title": "SSH PROXY [ Expired ]",
       "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5R3dMZmRueFRNanYzNHlUcnFBZXAzdDFZQmVIM0ZxK2hFeG9MTnBXeGxMeU5vNDdvYW9SYlwvcVZcblBPV2VDTkdFbjJnNDVUZzl5Q29FZTU1ZUxnRXhTK0d0M3FNT2lkMUZLZldWMTMxQmhZempqWU1EZ3BXUXF6WXFLMWJQVzZhTmtjNzZcblBPelF5b0x6WVNyRE9QblZnTE9WS1V4emFTK3dWWFB2bGhwTktMeWlNZnVpdkhVTjBLaU5MYWU1TFhrNGtmVGZ2M2h1XC9JOUYyd1lnXG5henpsYUl5QXJhZ0RzOFBVR29OS0dzcW5SQ1lhSVlwcE5nd1p5VDhyUW14QlpmWGRWaVdDeHhFYml4eVpiSDg3WFJ3TW40RDJWNVkyXG5vQ0VcL2V3OE1DWFJZZjY5SzkyM0VvRDhJVFRMN0RqYlloNWJJY09mSDJKd0pYTmxYN3kwaUJ0UWRiY296M2xxZU1lZ01mNDd6dm1hSVxuczRKR1UyUTVlZTZVd1gwQmNoWlhPSVMxVHc9PVxuIiwibG9ja2VkIjpmYWxzZX0=",
       "description": "Contoh config untuk metode ssh proxy, silahkan ganti akun ssh dan bug yang di inginkan"
-    },
+    }
   "libraries": [
     {
       "name": "Retrofit",
