@@ -7,8 +7,13 @@
       "title": " XL VIDIO JABAR [ Active ]",
       "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5QU41eHRTakdrN2tkY1VhQVVxU250WGFBSURQWnhZeEpvVG1WREgyR05zVXJOdENvVzREdkE0V1xudVNOTFAyWmtGd0pDdWZoMER5VTZZSlVjVjB3XC90N0VSaUZLSm5DOHA2SEVBOWdPWUlNODR1aVpVRndja2tlSEQyUlBSRXZaSXl4dGhcblJBSW1QOGtQXC9oUzhnQTVielwvSndISXdTNVJReDNtSFRUS0JqNVwvUWpad25BRDRIMUNkNkJlMG5kQ2FubUdPRkdqNHNcL25NVGZ6K3doXG5hRFJndEQyTzZSaTl0dDFlTWxtcythYlV0bUhPblZrQnhvMEltZ0xoTEZGSDNtYW9lR1wvSDA1NWd1NUREN1lSZlU1cVByOGFZdWFUY1xuMnNaTVRZd29xZUpPS1ZTSENUUHdNdmRvTmJkenU5ZUIraDlpR3pTd1hjVFZOYkQ4cjM0S1ZOUGVHV2s9XG4iLCJsb2NrZWQiOmZhbHNlfQ==",
       "description": "Contoh config untuk metode ssl direct, silahkan ganti akun dan bug dengan yang di inginkan"
-    }
     },
+    "ssl_payload": {
+      "title": "SSL PAYLOAD [ Example ]",
+      "config": "Comming soon",
+      "description": "Contoh config untuk metode ssl payload"
+    }
+  },
   "libraries": [
     {
       "name": "Retrofit",
