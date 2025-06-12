@@ -1,17 +1,27 @@
 {
-  "app_name": "About🦊",
+  "app_name": "About",
   "discord_url": "https://t.me/nxprojects",
   "description": "This application project will be sold, if interested contact me: \n\nEmail: ndevzsoftwaredevelopers@gmail.com\nWhatsApp: +6283133253883\nTelegram: t.me/nxdevteam",
   "config_samples": {
     "ssl_direct": {
-      "title": " XL VIDIO JABAR [ Active ]",
-      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiS1B5cGdSdWpLejNMQmVKVUUxT3V5QU41eHRTakdrN2tkY1VhQVVxU250WGFBSURQWnhZeEpvVG1WREgyR05zVXJOdENvVzREdkE0V1xudVNOTFAyWmtGd0pDdWZoMER5VTZZSlVjVjB3XC90N0VSaUZLSm5DOHA2SEVBOWdPWUlNODR1aVpVRndja2tlSEQyUlBSRXZaSXl4dGhcblJBSW1QOGtQXC9oUzhnQTVielwvSndISXdTNVJReDNtSFRUS0JqNVwvUWpad25BRDRIMUNkNkJlMG5kQ2FubUdPRkdqNHNcL25NVGZ6K3doXG5hRFJndEQyTzZSaTl0dDFlTWxtcythYlV0bUhPblZrQnhvMEltZ0xoTEZGSDNtYW9lR1wvSDA1NWd1NUREN1lSZlU1cVByOGFZdWFUY1xuMnNaTVRZd29xZUpPS1ZTSENUUHdNdmRvTmJkenU5ZUIraDlpR3pTd1hjVFZOYkQ4cjM0S1ZOUGVHV2s9XG4iLCJsb2NrZWQiOmZhbHNlfQ==",
+      "title": "SSL DIRECT [ Example ]",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiU0dYUExmVWphcXhHTkpBVk1wU1lqaSs2OFlkNUZjSWpBXC9LNFdDY3ZJQWdvMFNMV2RwQlhid2s2VTltY0VyNlwvVEg3Tm1qcER4ZlpHXG5TeHlVUll3Z3FXRzRhZHVoZ1dMTDhVOENiRzAzZVVCSzNlQnR0Rm45WHRSQ1owb0VUK0dXbFwvUmJiRjlEVjFDbTB3UDFKXC82TnNodG1cbnJFa2F2SUZwQ0RoUzArcFFuRGlKM0VVYzhCUGZsV2h3YUJ4b25BK2hWU0FFcWZ6czUxUlFMQU9sdVlEbDdBQVRCUHc5RUJVbzhSaExcbm8rUE9ETzVmSUdLSXFXOGdLZlU3dmd3RERwVXVtRkpmRFZEOEZRcU5MbVo3U05HZEdzYVBvUUYyXC9HVFlrNHd0UzY4MUkrcmtFbmd3XG40bEJhc2lHSXVHZXdyNyttUjBvV1lJTzRVOU9OVXF1cDRLVWdMVjJQRGh3UDlsQWJoU2JsTnc5dzFZeHY2QklcL1VGQVFPZVV6UGw2XC9cbjBEZXduQllaVlJjNEJkMld1alJTVVM5bDhRPT1cbiIsImxvY2tlZCI6ZmFsc2V9",
       "description": "Contoh config untuk metode ssl direct, silahkan ganti akun dan bug dengan yang di inginkan"
     },
     "ssl_payload": {
-      "title": "SSL PAYLOAD [ Example ]",
-      "config": "Comming soon",
-      "description": "Contoh config untuk metode ssl payload"
+      "title": "SSL WS PAYLOAD [ Example ]",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiU0dYUExmVWphcXhHTkpBVk1wU1lqbzhWZXhFUys1Mjd6bVhtYUNyc2cwUDFQalRnUHVzXC84RHdJenJNNktHazRBS0pnRVB3YlpCc1dcblNvbEtpV1l6ZnNRbEhzTXJydGd0azRNRGlMeTlKXC90VjVzdFwvTkJ3VlR6Z3JMV2ZqR3dzWkI5QUZ1c2hPbzRPeXUrMEQ0ZjBYS1dzc1xuZ2pDUVNCODdEMk5XV3hRdlwvK2ZBeUtWa0RPMHhTVnYwVldCdDdGZTdcL3JnaWNzM2puYngrazg4QmdFbERrMjBoalJZT1NPMkc5RzVGXG45RFRTOTNiZ1JJZ0tQV0I1T0NGUlI3cUdPQitMR2cwTDZrWmNTelR0dVE1U1BOeHB5RkNja0tCVk5td01qYmhmTUZEVDNiMVRiUE9KXG5XY0ZWVXR1ODRnMDFiaHVBVzBBZ1RaWGsxdER5SjJGSWlkMGdQV2hlVEdCRzNDVmp1Q3Jpdkw5WCtBZzJuWGRwc05jdWZ1Y25iMWVLXG5GSjVpSlZGRjJIaFdweUlBcjllNVRhTVV3dzNEOVwvbUdHMzdxdE1kQ3FaRk5Fb3hpKzRGSE9mR2NHTUV0WWMwajhQRVYyZUdSY09xY1xuVWtSbk9XZDhxdEVvMnYwUHJ2dncyc2gzWWVqTE1zUVhUUmVpazV4T000aUF0N1NcL3B3MDJLM3VjdURsZFdyemhuYWRwZUhLajFYZlBcbjUzbnNHcUU3OFNacjVzMjM5R1NIWENZPVxuIiwibG9ja2VkIjpmYWxzZX0=",
+      "description": "Contoh config untuk metode ssl ws payload"
+    },
+    "ssl_ws_proxy": {
+      "title": "SSL WS PROXY [ Example ]",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoiU0dYUExmVWphcXhHTkpBVk1wU1lqdTI2SE9KSERTWVl0djUxb3hUQnNZTGc3MW9BMFBobEk2K3Y1TjJ3MWJJaGw3dkVJXC9oZFBEcHhcbkh2eEVkUE9XNGJCTVlEdVFJT1l6ZEVyXC9DVHJLa3pySXFEMW5WbURyaURQRWUzU3I4SWw3NGdtYnhrOWFLSVl1VGRrSWM3OE5VZ2tGXG5pTDFxSDNGQWpWQ09lR0NJN2tRRkhoWkdBaHZaK2xoUGNNekNTU0pPemJvNU8rcHoxd0N2dnZBcVwvU1NiN1wvYlVxYnZ6K2hwWCs2WERcbjkrcVRNZ1dOUzFRRGdDRW8rVUgxdFhOZG9zbm5GbGxRTVF3RldkV1NWcFwvUXQrdmNSdlhhSHNuTTQxZTRPdHg3Q2llK0ZmVkJEVjJQXG5ER3RcL0tLZUhPSnl4Rm1KOGxjTXZHU24yT1pOUUVSQUs4ajJLaFlJTkowRTY1WENRNElJVjRGd2VsaUNnbktyb1E4T0p4dmo1SURmZVxuN3VEREFsMHEzcVdGQU5HM3VrY0lmeFwvTkpDVlJSZGg0VnFjaUFLXC9YdVUyakZNTU53XC9mNWhodCs2clRIUXFtUlRSS01ZdnVCUnpueFxubkJqQkxXSE5JXC9EeEZkbmhrWERxbkZKRVp6bG5mS3JSS05yOUQ2Nzc4TnJJZDJIb3l6TEVGMDBYb3BPY1RqT0lnTGUwdjZjTk5pdDdcbm5MZzVYVnE4NFoybmFYaHlvOVYzeitkNTdCcWhPXC9FbWErYk50XC9Sa2gxd21cbiIsImxvY2tlZCI6ZmFsc2V9",
+      "description": "Contoh config untuk metode ssl ws proxy"
+    },
+    "http_proxy": {
+      "title": "HTTP WS PROXY [ Example ]",
+      "config": "nxvpn://eyJlbmNyeXB0ZWREYXRhIjoibWk3bnExUXJYNkdrZ1RTeTA0UGE5Wmw1eWZsU3R2Z1E1R2ZRcTdIb1JxWjhNRncyakFYUHVXaDBTdUhBMWVqWk9xXC9DOWxlRlhGcVBcblNGYTBIWDBscVpQelBvcStOTHh1V3RxK3pjcW5YR2hJNkkwVEN6OVlWam1IK21WWU81Qmh6YWdUcFQwRWUyQzBWV0hOaitMVmpOVFBcbmxlQ1RETkE1WExUakNDZUp4dkh4MFlFdmx2YUJxMEd3NXFDV0R2V0luTjI2THZoelhvU01rb3hQZkNDem1xR0FVb0o1T3dhQ3hQUTNcblZQTmhUUzVYTnlwOXBuaFNtT1wva0xcL2VURUdnTWdhcXlLdnNTK0NZTitobEFGQTkyT3RrUWViVW9USEEzaW1MZ2JCRmZ1amNVNjFZalxuTktvNEhxZkh6VmZ3RThUY3B0c1B1c2sxRUFSTVZvSUJxd010K1NWUlJkaDRWcWNpQUtcL1h1VTJqRk1NTndcL2Y1aGh0KzZyVEhRcW1SXG5UUktNWXZ1QlJ6bnhuQmpCTFdITklcL0R4RmRuaGtYRHFuRkpFWnpsbmZLclJLTnI5RDY3NzhOcklkMkhveXpMRUYwMFhvcE9jVGpPSVxuZ0xlMHY2Y05OaXQ3bkxnNVhWcTg0WjJuYVhoeW85VjN6K2Q1N0JxaE9cL0VtYStiTnRcL1JraDF3bVxuIiwibG9ja2VkIjpmYWxzZX0=",
+      "description": "Contoh config untuk metode http ws proxy"
     }
   },
   "libraries": [
